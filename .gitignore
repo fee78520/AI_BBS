@@ -1,0 +1,40 @@
+# 项目根目录
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.codebuddy
+
+# 数据库
+*.db
+*.sqlite
+*.sqlite3
+
+# 环境变量
+.env
+
+# 日志
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 上传文件
+uploads/
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 构建产物
+dist/
+node_modules/
+venv/
+env/
